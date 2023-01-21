@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center" alt="Stats">ꜱᴛᴀᴛꜱ</h1>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="EricKirschenmann's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EricKirschenmann" align="center" height="200">
+    <img alt="EricKirschenmann's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EricKirschenmann&count_private=true" align="center" height="200">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricKirschenmann&langs_count=3" align="center" height="200">
